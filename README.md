@@ -4,9 +4,9 @@ This project is the first hands-on pratice for Data Engineering. The purpose is 
 
 The tools that are used in this project are:
 
-* Azure Data Factory
-* Azure Data Lake Storage Gen2
-* Azure Databricks
+* Azure Data Factory (Data Ingestion)
+* Azure Data Lake Storage Gen2 (Data Storage)
+* Azure Databricks (Data Transformation)
 * Azure Synapse Analytics
 * Azure Key vault
 * Azure Active Directory (AAD) and
